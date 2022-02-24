@@ -1,0 +1,30 @@
+.FondoGris{
+    background-color: rgb(221, 223, 223);
+}
+.Fondo{
+    background-image: url(../images/españaBandera.jpg);
+    background-size: cover;
+    width: auto;
+    
+}
+.FondoRojo{
+    background-color: rgb(201, 19, 19);
+}
+.AlinearIzq{
+    top: 60%;
+    left: 10%;
+    width: 15%;
+}
+.AlinearDrcha{
+    
+    top: 60%;
+    left: 90%;
+    width: 13%;
+}
+@font-face {
+    font-family:seria ;
+    src: url(../fonts/unispace\ bd\ it.ttf);
+}
+.Seria{
+    font-family: seria;
+}
